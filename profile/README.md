@@ -1,3 +1,3 @@
-<img src='images/HimesLabLogo_Color.png' alt="banner"></img>
+<img src='HimesLabLogo_Color.png'></img>
 
 The [Himes Lab](https://www.himeslab.org/) is part of the Department of Biostatistics, Epidemiology, and Informatics and the Institute for Biomedical Informatics at the University of Pennsylvania. We are a computational group whose overarching goal is to use biomedical informatics approaches to better understand complex respiratory diseases. We do so by leveraging large publicly available datasets to gain disease insights via the integration of diverse omics data types, as well as by enhancing Electronic Health Record (EHR) data with information on social, economic and environmental factors. 
